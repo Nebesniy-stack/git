@@ -339,3 +339,4 @@ git remote add origin git@github.com:address.git # добавляем удале
 git remote rm origin # удаляем привязанный удалённый репозиторий
 git remote add origin git@github.com:address.git # добавляем удаленный репозиторий, сокр. имя — origin
 ```
+thanks for that
